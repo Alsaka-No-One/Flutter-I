@@ -1,0 +1,58 @@
+{ 
+    "items" : [
+        {   
+            "id": "NB01",
+            "name": "Black Bag",
+            "device": "USD",
+            "price": 100,
+            "stock": 15,
+            "inCart" : 0,
+            "imagePath": "Assets/Pictures/PictureName1.jpeg"
+        },
+        {   
+            "id": "NB02",
+            "name": "Green Bag",
+            "device": "USD",
+            "price": 104,
+            "stock": 15,
+            "inCart" : 0,
+            "imagePath": "Assets/Pictures/PictureName2.jpg"
+        },
+        {   
+            "id": "NB03",
+            "name": "Red Bag",
+            "device": "USD",
+            "price": 100,
+            "stock": 20,
+            "inCart" : 0,
+            "imagePath": "Assets/Pictures/PictureName3.jpg"
+        },
+        {   
+            "id": "NB04",
+            "name": "Black Hoodie",
+            "device": "USD",
+            "price": 60,
+            "stock": 10,
+            "inCart" : 0,
+            "imagePath": "Assets/Pictures/PictureName4.jpeg"
+        },
+        {   
+            "id": "NB05",
+            "name": "Red Hoodie",
+            "device": "USD",
+            "price": 120,
+            "stock": 5,
+            "inCart" : 0,
+            "imagePath": "Assets/Pictures/PictureName5.jpg"
+        },
+        {   
+            "id": "NB06",
+            "name": "Green Hoodie",
+            "device": "USD",
+            "price": 100,
+            "stock": 15,
+            "inCart" : 0,
+            "imagePath": "Assets/Pictures/PictureName6.jpg"
+        }
+    ]
+}
